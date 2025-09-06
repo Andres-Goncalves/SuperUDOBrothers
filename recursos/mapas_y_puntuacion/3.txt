@@ -1,0 +1,31 @@
+alto=030 ancho=177 tiempo=160
+   a                                                                                                                                                                             
+   a                                                                                                                                                                             
+aaaa                                                                                                                                                                             
+                                                                                                                                                                                 
+                                                                                                                                                                                 
+                                                                                                                                                                                 
+                                                                                                                                                                                 
+                                                                                                                                                                                 
+                                                                                                                                                                                 
+                                                                                                                                                                                 
+                                                                                                                                                                                 
+                                                                                                                                                                                 
+                                                                                                                                                                                 
+                                                                                                                                                                                 
+                                                                                                                                                                                 
+                                                                                                                                                                                 
+                                                                                                                                                                    I      DDD   
+                                               g g                                                                                                                 JH      FAG   
+                             rrri         wxxxxxxy               rrrr                              rr  rr                     rr                                    H     DEEED  
+                            wxxxy          KKKKKK                wxxy                g     rr                        i                                    cc        H     AACAA  
+                             KKK           KKKKKK     rr    vvv   KK             wxxxxy                       wxxxxxxy                     vvv            cc        H     AABAA  
+                             KKK           KKKKKK                 KK              KKKK      vvv                KKKKKK                                   cccc        H   DDEEEEEDD
+ DDD                         KKK     wxxxy KKKKKK                 KK         i    KKKK              vvv        KKKKKK                                   cccc        H   AAACACAAA
+ FAG                      wxxxxxxy    KKK  KKKKKK                 KK       wxy    KKKK                         KKKKKK     wxxy  wxxy                  cccccc        H   AAABABAAA
+DEEED                      KKKKKK     KKK  KKKKKK               p KK        K     KKKK                  wxxy   KKKKKK      KK    KK                   cccccc        H   AAAAAAAAA
+AACAA                      KKKKKK  r  KKK  KKKKKK                 KK        K     KKKK                   KK    KKKKKK      KK    KK                   cccccc        H   AACACACAA
+AABAA  m            wxxy   KKKKKK wxy KKK  KKKKKK                 KK        K     KKKK                   KK    KKKKKK  rrr KK    KK              i    cccccc        c   AABABABAA
+aaaaaaaaaaaaaaaaaa   KK    KKKKKK  K  KKK  KKKKKK     wxxy      wxxxy wxxxy K     KKKK                   KK    KKKKKK  wxy KK    KK      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa   KK    KKKKKK  K  KKK  KKKKKK      KK        KKK   KKK  K     KKKK                   KK    KKKKKK   K  KK    KK      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa   KK    KKKKKK  K  KKK  KKKKKK      KK        KKK   KKK  K     KKKK                   KK    KKKKKK   K  KK    KK      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa

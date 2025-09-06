@@ -1,0 +1,31 @@
+alto=030 ancho=192 tiempo=160
+   a                                                                                                                                                                                            
+   a                                                                                                                                                                                            
+aaaa                                                                                                                                                                                            
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+   m                                                                                                                                                                                            
+b  e   bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                                        I            
+d                                                      dd  dddddd  dddd      dddd                                                                                                 JH            
+d                                                      dd  dddddd  dddd      dddd                                                                                                  H            
+d                                         rrrr       bb        dd   d    bb          rrrrrr                                                                              cc        H            
+d                                                    dd        dd   d    dd                                                                                             ccc        H            
+d                                       b bbbb f     dd        dd   d    dd          bbbbbb                                                                            cccc        H            
+d                             f         dqd  dqd     dd    qqqqdd   dqf  dd  g g     dddddd                                               g                           ccccc        H      DDD   
+d          pssss        c c             dbd  dbd     ddbb  bbbbdd   dbd  dd  bbbb                             ..                        gcc        bbbbbf            cccccc        H      FAG   
+d                     c c c c   c                      dd                                               ..    t.    ..     bb           ccc                         ccccccc        H     DEEED  
+d                 g c c c c c   c c                    dd                                               t.    u.    t.     dd          cccc                        cccccccc        H     AACAA  
+d                gc c c c c c g c c          h h            h  g g                                 g g gu.    u.  g u.     dd         ccccc               i       ccccccccc        c     AABAA  
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa   aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa  aa  aaaaaaaaaaaaa       aaaaaaaa      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa   aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa  aa  aaaaaaaaaaaaa       aaaaaaaa      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa   aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa  aa  aaaaaaaaaaaaa       aaaaaaaa      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
