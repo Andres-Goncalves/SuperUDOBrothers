@@ -1,1 +1,1 @@
-[![Imagen del juego con enlace a un video demostrativo](https://imgur.com/a/udo-proyect-super-udo-brothers-OlWnRWw)](https://www.youtube.com/watch?v=t--WrxEBaMY)
+[![Imagen del juego con enlace a un video demostrativo](https://media.discordapp.net/attachments/518244373276655616/1415391803657556048/image.png?ex=68c309d6&is=68c1b856&hm=69858370cd077bbede456533555e34339db6472a9a88156924982482a1849f7c&=&format=webp&quality=lossless&width=1529&height=864)](https://www.youtube.com/watch?v=t--WrxEBaMY)
